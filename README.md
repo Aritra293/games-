@@ -1,3 +1,3 @@
 # game
-kill bird game s
+kill bird game
 shoot the birds
